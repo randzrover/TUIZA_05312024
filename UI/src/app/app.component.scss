@@ -1,0 +1,12 @@
+.example-card {
+    max-width: 450px;
+    min-width: 450px;
+}
+
+.example-card > img {
+    height: 400px;
+}
+
+.example-card > mat-grid-tile {
+    padding: 5px 5px;
+}
